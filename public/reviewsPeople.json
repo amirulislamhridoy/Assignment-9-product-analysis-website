@@ -1,0 +1,66 @@
+[
+    {
+        "_id": "624aa8d3e6e29203da01573a",
+        "picture": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "name": "Haley Serrano",
+        "email": "haleyserrano@steelfab.com",
+        "about": "It's very good for use. I want to always use this phone. It's my choice",
+        "rating": "5"
+    },
+    {
+        "_id": "624aa8d398a2062744473c7f",
+        "picture": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8dXNlciUyMHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Lloyd Gross",
+        "email": "lloydgross@steelfab.com",
+        "about": "This phone is awesome. Nice look, shape, body etc.",
+        "rating": "5"
+    },
+    {
+        "_id": "624aa8d3086cada3475ccd0c",
+        "picture": "https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331257__340.png",
+        "name": "Sanders Cline",
+        "email": "sanderscline@steelfab.com",
+        "about": "iPhone is top brand in the world and now this phone is top in the world for it's features.",
+        "rating": "5"
+    },
+    {
+        "_id": "624aa8d3d34dfbe5cc9ef5a9",
+        "picture": "https://images.unsplash.com/photo-1609010697446-11f2155278f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHVzZXIlMjBwcm9maWxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Oneil Noble",
+        "email": "oneilnoble@steelfab.com",
+        "about": "Super features phone. I like this phone.",
+        "rating": "4"
+    },
+    {
+        "_id": "624aa8d3f2293f708d6418b4",
+        "picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "name": "Fowler Harper",
+        "email": "fowlerharper@steelfab.com",
+        "about": "iPhone 13 pro max is best phone now. I wand to buy this. How I can buy it please ?",
+        "rating": "5"
+    },
+    {
+        "_id": "624aa8d376f060475bd35941",
+        "picture": "https://media.istockphoto.com/photos/studio-shot-of-a-handsome-and-happy-young-man-posing-against-a-grey-picture-id1355110818?b=1&k=20&m=1355110818&s=170667a&w=0&h=O58XhltYuAw0ssiUWXAFlIitq_4kj-WdJFWcTLEoUi0=",
+        "name": "Felicia Callahan",
+        "email": "feliciacallahan@steelfab.com",
+        "about": "iPhone 13 pro colors, modes, battery capacity etc is good for use.",
+        "rating": "4.5"
+    },
+    {
+        "_id": "624aa8d3f33d1a0d456b546e",
+        "picture": "https://dwpdigital.blog.gov.uk/wp-content/uploads/sites/197/2016/07/P1090594-1.jpeg",
+        "name": "Belinda Richards",
+        "email": "belindarichards@steelfab.com",
+        "about": "Wow it is awesome. Nice phone but price is very high",
+        "rating": "4"
+    },
+    {
+        "_id": "624aa8d3c90f1d8a7b54265d",
+        "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dXNlciUyMHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Humphrey Meyer",
+        "email": "humphreymeyer@steelfab.com",
+        "about": "It's charging capacity not good and price is very high",
+        "rating": "3.5"
+    }
+]
