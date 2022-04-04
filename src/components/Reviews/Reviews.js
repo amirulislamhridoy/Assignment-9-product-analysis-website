@@ -7,7 +7,6 @@ const Reviews = () => {
     return (
         <div className='w-3/4 mx-auto my-10'>
             {
-
                 reviews.map(review => <div key={review._id} className="my-6 font-sans flex items-center">
                     <img className='w-24 h-24' src={review.picture} alt="" />
                     <div className='ml-10'>

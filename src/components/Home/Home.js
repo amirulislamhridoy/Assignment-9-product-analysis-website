@@ -1,7 +1,6 @@
 import React from 'react';
-import bannerImg from '../../images/apple-iphone-13-pro-max.jpg'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faStar, faStarHalf } from '@fortawesome/free-solid-svg-icons'
+// import bannerImg from '../../images/apple-iphone-13-pro-max.jpg'
+import bannerImg from '../../images/freez.jpg'
 import useReviews from '../../hook/useReview';
 import { useNavigate } from 'react-router-dom';
 
@@ -25,7 +24,9 @@ const Home = () => {
                     <button className='px-8 py-4 bg-indigo-100 rounded-lg'>Live Demo</button>
                 </div>
                 <div className="">
+
                     <img src={bannerImg} alt="" />
+
                 </div>
             </div>
 
