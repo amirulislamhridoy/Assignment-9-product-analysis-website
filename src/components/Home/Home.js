@@ -34,7 +34,7 @@ const Home = () => {
                 <div className='grid md:grid-cols-2 xl:grid-cols-3 my-10 gap-20 font-sans'>
                     {
                         firstThree.map(review => <div className='flex items-center' key={review._id}>
-                            <img className='w-24 h-24 rounded-bl-full ' src={review.picture} alt="" />
+                            <img className='w-24 h-24 rounded-bl-full' src={review.picture} alt="" />
                             <div className='ml-4'>
                                 <h3 className='text-2xl font-semibold'>{review.name}</h3>
                                 <p>{review.about}</p>
