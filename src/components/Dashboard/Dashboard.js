@@ -9,7 +9,7 @@ const Dashboard = () => {
             .then(res => res.json())
             .then(data => setDatas(data))
     }, [])
-    console.log(datas)
+    // console.log(datas)
     return (
         <div>
             <div className='flex justify-around mt-10'>
