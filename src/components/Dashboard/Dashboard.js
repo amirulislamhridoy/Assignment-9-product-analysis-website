@@ -24,6 +24,7 @@ const Dashboard = () => {
                     </LineChart>
                 </div>
                 <div>
+                    <h3 className='uppercase text-xl font-semibold text-center'>Investment Vs Revenue</h3>
                     <AreaChart
                         width={600}
                         height={400}
@@ -48,6 +49,7 @@ const Dashboard = () => {
             </div>
             <div className='flex justify-around mt-10'>
                 <div>
+                    <h3 className='uppercase text-xl font-semibold text-center'> Investment VS Revenue</h3>
                     <BarChart
                         width={500}
                         height={300}
@@ -69,6 +71,7 @@ const Dashboard = () => {
                     </BarChart>
                 </div>
                 <div>
+                    <h3 className='uppercase text-xl font-semibold text-center'>Investment VS Revenue</h3>
                     <PieChart width={400} height={400}>
                         <Pie data={datas} dataKey="sell" cx="50%" cy="50%" outerRadius={50} fill="#8884d8" />
 
