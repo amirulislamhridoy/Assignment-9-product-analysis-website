@@ -12,7 +12,7 @@ const Dashboard = () => {
     // console.log(datas)
     return (
         <div>
-            <div className='flex justify-around mt-10'>
+            <div className='xl:flex justify-around mt-10'>
                 <div>
                     <h3 className='uppercase text-xl font-semibold text-center'>Month wise Sell</h3>
                     <LineChart width={600} height={400} data={datas}>
@@ -47,7 +47,7 @@ const Dashboard = () => {
                     </AreaChart>
                 </div>
             </div>
-            <div className='flex justify-around mt-10'>
+            <div className='xl:flex justify-around mt-10'>
                 <div>
                     <h3 className='uppercase text-xl font-semibold text-center'> Investment VS Revenue</h3>
                     <BarChart
